@@ -1,7 +1,7 @@
 #  ¡Bienvenido a mi página de GitHub!
 Mi nombre es Omar Pérez y soy un desarrollador web con experiencia en una variedad de tecnologías, incluidas HTML5, CSS, Bootstrap, Sass, JavaScript, React, Node.js, Express y MongoDB.
 
-Comencé mi camino en el desarrollo web con Codecademy, donde completé un curso de desarrollo front-end. Esto me proporcionó una base sólida en HTML5, CSS y JavaScript, y encendió mi pasión por crear aplicaciones web modernas y eficientes.
+Comencé mi camino en el desarrollo web con Codecademy, donde completé un curso de desarrollo front-end. Esto me proporcionó una base sólida en HTML5, CSS, JavaScript y React y encendió mi pasión por crear aplicaciones web modernas y eficientes
 
 Actualmente, estoy inscrito en un bootcamp de pila completa en la Universidad de Utel, donde estoy ampliando mi conjunto de habilidades para incluir tecnologías de back-end como Node.js y Express, así como la gestión de bases de datos con MongoDB.
 
