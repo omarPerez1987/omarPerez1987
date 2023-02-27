@@ -1,21 +1,13 @@
-#  ¡Bienvenido a mi página de GitHub!
-Mi nombre es Omar Pérez y soy un desarrollador web apasionado por aprender y crear aplicaciones web modernas.
+# 💫 About Me:
+hola 👋🏻 soy Omar! <br>Fullstack dev con stack MERN.<br><br>En los últimos 2 años he tenido la posibilidad de aprender y praticar con distintas tecnologías y espero poder continuar haciéndolo.<br><br>En lo personal, me gusta trabajar con gente, me interesa vincularme y aprender de cada uno de ellos. Me pongo constantemente delante de nuevos desafíos para intentar resolverlos, <br>ya sea con mis herramientas actuales o aprendiendo nuevas.
 
-Obtuve experiencia en una variedad de tecnologías, incluidas HTML5, CSS, Bootstrap, Sass, JavaScript, React, Node.js, Express y MongoDB.
 
-Mi viaje en el desarrollo web comenzó con Codecademy, donde completé un curso de desarrollo front-end. Esto me proporcionó una base sólida en HTML5, CSS, JavaScript y React donde encendió mi pasión por crear aplicaciones web modernas y eficientes.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_perez87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/omar-perez87-161977218) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Alpha8333) 
 
-Actualmente, estoy inscrito en un bootcamp de pila completa en la Universidad de Utel, donde estoy ampliando mi conjunto de habilidades para incluir tecnologías de back-end como Node.js y Express, así como la gestión de bases de datos con MongoDB.
-
-A lo largo de mi trayectoria en el desarrollo web, he aprendido a crear aplicaciones web dinámicas e interactivas, y siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades. Estoy emocionado de compartir mis proyectos y experiencias con la comunidad en GitHub y espero conectarme con otros desarrolladores. ¡Gracias por su visita!
-
-# Welcome to my GitHub page!
-My name is Omar Perez and I am a web developer with a strong passion for learning and creating modern web applications.
-
-I have gained experience in a variety of technologies, including HTML5, CSS, Bootstrap, Sass, JavaScript, React, Node.js, Express, and MongoDB.
-
-My journey in web development started with Codecademy, where I completed a course in front-end development. This provided me with a solid foundation in HTML5, CSS, and JavaScript, and ignited my passion for building modern and efficient web applications.
-
-Currently, I am enrolled in a full stack bootcamp at Utel University, where I am expanding my skillset to include back-end technologies such as Node.js and Express, as well as database management with MongoDB.
-
-Throughout my journey in web development, I have learned to build dynamic and interactive web applications, and I am always looking for new opportunities to learn and improve my skills. I am excited to share my projects and experiences with the community on GitHub and look forward to connecting with other developers. Thank you for visiting!
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alpha870&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alpha870&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha870&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
