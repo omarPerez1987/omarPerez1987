@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack. En los últimos 3 años he tenido la posibilidad de aprender y praticar con distintas tecnologías y espero poder continuar haciéndolo. En lo personal, me gusta trabajar con gente, me interesa vincularme y aprender de cada uno de ellos. Me pongo constantemente delante de nuevos desafíos para intentar resolverlos, ya sea con mis herramientas actuales o aprendiendo nuevas.
+Fullstack. En los últimos 4 años he tenido la posibilidad de aprender y praticar con distintas tecnologías y espero poder continuar haciéndolo. En lo personal, me gusta trabajar con gente, me interesa vincularme y aprender de cada uno de ellos. Me pongo constantemente delante de nuevos desafíos para intentar resolverlos, ya sea con mis herramientas actuales o aprendiendo nuevas.
 
 
 ## 🌐 Socials:
